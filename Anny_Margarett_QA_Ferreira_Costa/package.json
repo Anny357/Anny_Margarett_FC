@@ -1,0 +1,16 @@
+{
+  "name": "atividade_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Anny Margarett",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "cypress": "^14.0.2",
+    "javascript": "^1.0.0"
+  }
+}
